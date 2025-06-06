@@ -1,4 +1,5 @@
-🔍 Project Description
+🔍 What is EngageNet?
+
 EngageNet is a machine learning pipeline that predicts and analyzes social media image engagement by correlating visual content features with interaction metrics such as likes, shares, or total engagement.
 EngageNet is a machine learning pipeline that predicts and analyzes social media image engagement by correlating visual content features with interaction metrics such as likes, shares, or total engagement. This hybrid approach combines structured data regression models with deep learning-based image classification (InceptionV3) to explore which visual elements may drive engagement. The goal is to support creators and brands in making data-informed content decisions.
 
